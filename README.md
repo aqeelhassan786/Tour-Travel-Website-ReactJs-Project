@@ -1,43 +1,11 @@
-# Getting Started with Create React App
-![Screenshot 2025-03-04 224752](https://github.com/user-attachments/assets/565ccd77-fb64-48c4-a242-6f91c0110b7c)
+# Tour & Travel Website | React.js Project
+These are some screeshots of my project for preview..
+![Screenshot 2025-05-20 111433](https://github.com/user-attachments/assets/fdcbacc0-6532-40e7-9f54-cb2bc72129c0)
+![Screenshot 2025-05-20 111729](https://github.com/user-attachments/assets/30fd793f-b73c-4c2c-a5aa-0ca697e94fb9)
+![Screenshot 2025-05-20 111906](https://github.com/user-attachments/assets/10faed96-e29e-4569-8f8d-03f8ec492c6d)
+![Screenshot 2025-05-20 112023](https://github.com/user-attachments/assets/217e4ad2-acb0-41c4-8413-5fe343df950d)
+![Screenshot 2025-05-20 112159](https://github.com/user-attachments/assets/aaa273b7-a971-4ad9-860e-27761685aa5a)
+![Screenshot 2025-05-20 112255](https://github.com/user-attachments/assets/84c61a0f-e76c-47bc-b1ce-f2570677fe90)
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
