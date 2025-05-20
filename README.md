@@ -7,5 +7,8 @@ These are some screeshots of my project for preview..
 ![Screenshot 2025-05-20 112159](https://github.com/user-attachments/assets/aaa273b7-a971-4ad9-860e-27761685aa5a)
 ![Screenshot 2025-05-20 112255](https://github.com/user-attachments/assets/84c61a0f-e76c-47bc-b1ce-f2570677fe90)
 
+1. Clone this repository to your local machine:
 
+   ```bash
+   git clone https://tour-travel-website-reactjs-project.netlify.app/
 
